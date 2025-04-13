@@ -1,0 +1,15 @@
+.socials {
+    display: flex;
+    align-items: center;
+  }
+  
+  .socials i {
+    margin-right: 18px;
+    transition: color 600ms ease-in-out;
+    cursor: pointer;
+  }
+  
+  .socials i:hover {
+    color: #ed563b;
+  }
+  
